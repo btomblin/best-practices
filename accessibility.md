@@ -108,7 +108,7 @@ Semantic HTML5 elements provide additional meaning to an HTML document for other
 
 ### Section 508
 
-  - Satisfy each item of the HHS.gov [Email 508 Checklist](https://www.hhs.gov/web/section-508/making-files-accessible/checklist/email-508-checklist/index.html)
+  - Satisfy each item of the [Email 508 Checklist](checklists/email-508-checklist.md)
 
 ## Testing
 
