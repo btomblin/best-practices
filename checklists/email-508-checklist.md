@@ -8,6 +8,9 @@ This checklist is based on the new WCAG 2.0 requirements that will be in effect 
 
 ### Section A: All Email
 
-- [ ] Is the email free from content that flashes more than 3 times per second? [WCAG 2.0 Success Criterion 2.3.1](http://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html)
-- [ ] Is the order of the content accurate and logical? [WCAG 2.0 Success Criterion 1.3.2](https://tracker.cloud.hhs.gov/issues/?jql=project%20%3D%20ST%20AND%20resolution%20%3D%20Unresolved%20AND%20issuetype%20%3D%20Accommodation%20ORDER%20BY%20priority%20DESC)
-- [ ] Can text be resized and considered readable when magnified to 200%? [WCAG 2.0 Success Criterion 1.4.4](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-scale.html)
+- [ ] Is the email free from content that flashes more than 3 times per second?
+  [WCAG 2.0 Success Criterion 2.3.1](http://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure-does-not-violate.html)
+- [ ] Is the order of the content accurate and logical?
+  [WCAG 2.0 Success Criterion 1.3.2](https://tracker.cloud.hhs.gov/issues/?jql=project%20%3D%20ST%20AND%20resolution%20%3D%20Unresolved%20AND%20issuetype%20%3D%20Accommodation%20ORDER%20BY%20priority%20DESC)
+- [ ] Can text be resized and considered readable when magnified to 200%?
+  [WCAG 2.0 Success Criterion 1.4.4](http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-scale.html)
